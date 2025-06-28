@@ -10,7 +10,7 @@ header {
     background-color: #007acc;
     color: white;
     text-align: center;
-    padding: 50px;
+    padding: 30px;
 }
 .photo {
    width: 150px;
@@ -21,12 +21,12 @@ header {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   display: block;
   margin: 0 auto;
-  margin-bottom: 50px; 
+  margin-bottom: 30px; 
 }
 main {
     max-width: 800px;
     margin: 30px auto;
-    padding: 20px;
+    padding: 30px;
     background: white;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
